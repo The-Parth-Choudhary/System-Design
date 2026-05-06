@@ -1,4 +1,4 @@
-package StratergyPattern;
+package StrategyPattern;
 
 public class Bird extends Animal{
     public Bird(){

@@ -1,4 +1,4 @@
-package StratergyPattern;
+package StrategyPattern;
 
 public class Animal {
     private String name;

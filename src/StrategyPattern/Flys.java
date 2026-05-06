@@ -1,4 +1,4 @@
-package StratergyPattern;
+package StrategyPattern;
 
 public interface Flys {
 
